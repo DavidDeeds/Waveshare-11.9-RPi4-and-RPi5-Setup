@@ -10,6 +10,8 @@ This guide documents the setup for the Waveshare 11.9" DSI LCD on both the Raspb
 
 ## 1. Physical Connection
 
+![Raspberry Pi 4B and Raspberry Pi 5 board connection reference](images/RPi4-5-Boards.jpg)
+
 ### Raspberry Pi 4B
 
 Connect the Waveshare 11.9" DSI LCD to the Pi 4B’s **DISPLAY/DSI** ribbon connector.
