@@ -20,6 +20,8 @@ Do **not** use the camera connector.
 
 The display’s **four-wire power/I²C connection** is normally made through the Waveshare spring pins if the Pi is mounted directly onto the screen.
 
+If the screen does not work even though the software configuration is correct, check the physical spring-pin contact. In my case, the GPIO contact area needed gentle cleaning with a nail file to get reliable contact.
+
 ---
 
 ### Raspberry Pi 5
